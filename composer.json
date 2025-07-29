@@ -1,0 +1,10 @@
+{
+    "name": "heycart/fastly-meta",
+    "type": "metapackage",
+    "license": "MIT",
+    "description": "A meta package providing recipes for Fastly",
+    "require": {
+        "heycart/core": ">=6.7.0.0",
+        "heycart/deployment-helper": "*"
+    }
+}
